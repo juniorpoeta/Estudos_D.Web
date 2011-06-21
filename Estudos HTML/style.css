@@ -1,0 +1,28 @@
+body{
+	background-color: #FFCC66;
+	background-image: url("borboleta.gif");
+	background-repeat: no-repeat;
+	background-attachment:scroll;
+}
+h1{
+	color: #990000;
+	background-color: #FC9804;
+	font-family: arial, Verdana, Sans-Serify;
+	font-size: 20px;
+}
+h2{
+	font-family: "Times New Roman", Serify; font-style: normal;
+	font-size: 12pt;
+}
+
+h3{
+	font-family: arial, verdana, sans-serify;
+	font-size: 120%;
+}
+
+p{
+	font-family: arial, verdana, sans-serify;
+	font-size: 1em;
+	text-indent: 30px;
+	text-align: justify;
+}
